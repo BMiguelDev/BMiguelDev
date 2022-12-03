@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Bruno Miguel
 - 🎓 BS + MS in Informatics Engineering
-- 💻 Software Engineer, specializing in Front End Web Development, mostly interested in the React technology ⚛️
+- 💻 Software Engineer, specializing in Front End Web Development, mostly interested in React ⚛️
 - ✉️ You can reach me at 
 <!--- - 👀 I’m looking for a position as a Front End Developer --->
 
