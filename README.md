@@ -8,7 +8,7 @@
 
 - 🎓 BS + MS in Informatics Engineering
 - 💻 Software Engineer, specializing in Front End Web Development, mostly interested in React
-- 🌱 Currently learning more about Redux and React Native
+- 🌱 Currently learning more about Redux, React Native, and Cross-Browser Compatibility
 <!--- - 👀 I’m looking for a position as a Front End Developer --->
 <!--- - ✉️ You can reach me at  --->
 
@@ -29,10 +29,12 @@
   <a href="#"><img title="React" alt="React" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/react_logo.svg.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Redux" alt="Redux" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/redux_toolkit.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Sass" alt="Sass" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/sass_logo.png" height="48" hspace="7px"/></a>
+  <a href="#"><img title="Styled Components" alt="Styled Components" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/styled_components_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="React Testing Library" alt="React Testing Library" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/react_testing_library_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Jest" alt="Jest" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/jest_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Cypress" alt="Cypress" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/cypress_logo1.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Storybook" alt="Storybook" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/storybook_logo.png" height="48" hspace="7px"/></a>
+  <a href="#"><img title="Webpack" alt="Webpack" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/webpack_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Git" alt="Git" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/git_logo.svg.png" height="48" hspace="7px"/></a>	
 </div>
 
