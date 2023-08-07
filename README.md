@@ -22,7 +22,7 @@
 
 
 <div>
-	<a href="#"><img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/html_logo.png" height="48" hspace="7px"/></a>
+  <a href="#"><img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/html_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/css_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/javascript_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Typescript" alt="Typescript" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/typescript_logo.png" height="48" hspace="7px"/></a>
@@ -30,6 +30,9 @@
   <a href="#"><img title="Redux" alt="Redux" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/redux_toolkit.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Sass" alt="Sass" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/sass_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Styled Components" alt="Styled Components" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/styled_components_logo.png" height="48" hspace="7px"/></a>
+	
+  <div height="12"><br/></div>
+ 
   <a href="#"><img title="React Testing Library" alt="React Testing Library" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/react_testing_library_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Jest" alt="Jest" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/jest_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Cypress" alt="Cypress" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/cypress_logo1.png" height="48" hspace="7px"/></a>
