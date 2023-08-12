@@ -8,7 +8,7 @@
 
 - 🎓 BS + MS in Informatics Engineering
 - 💻 Software Engineer, specializing in Front End Web Development, mostly interested in React
-- 🌱 Currently learning more about Redux, React Native, and Cross-Browser Compatibility
+- 🌱 Currently learning more about Authentication (JWT) and Redux
 <!--- - 👀 I’m looking for a position as a Front End Developer --->
 <!--- - ✉️ You can reach me at  --->
 
