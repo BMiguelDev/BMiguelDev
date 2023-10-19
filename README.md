@@ -8,7 +8,7 @@
 
 - 🎓 BS + MS in Informatics Engineering
 - 💻 Software Engineer, specializing in Front End Web Development, mostly interested in React
-- 🌱 Currently learning more about Authentication (JWT) and Redux
+- 🌱 Interested in learning more about Next.js and React Native
 <!--- - 👀 I’m looking for a position as a Front End Developer --->
 <!--- - ✉️ You can reach me at  --->
 
@@ -30,15 +30,20 @@
   <a href="#"><img title="Redux" alt="Redux" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/redux_toolkit.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Sass" alt="Sass" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/sass_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Styled Components" alt="Styled Components" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/styled_components_logo.png" height="48" hspace="7px"/></a>
-	
-  <div height="12"><br/></div>
- 
   <a href="#"><img title="React Testing Library" alt="React Testing Library" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/react_testing_library_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Jest" alt="Jest" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/jest_logo.png" height="48" hspace="7px"/></a>
+	
+  <div height="12"><br/></div>
+  
   <a href="#"><img title="Cypress" alt="Cypress" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/cypress_logo1.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Storybook" alt="Storybook" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/storybook_logo.png" height="48" hspace="7px"/></a>
+  <a href="#"><img title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/nodejs_logo.png" height="48" hspace="7px"/></a>
+  <a href="#"><img title="ExpressJS" alt="ExpressJS" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/expressjs_logo.png" height="48" hspace="7px"/></a>
+  <a href="#"><img title="JWT" alt="JWT" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/JWT_logo.png" height="48" hspace="7px"/></a>
+  <a href="#"><img title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/MongoDB_logo.webp" height="48" hspace="7px"/></a>
+  <a href="#"><img title="SQL" alt="SQL" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/sql_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Webpack" alt="Webpack" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/webpack_logo.png" height="48" hspace="7px"/></a>
-  <a href="#"><img title="Git" alt="Git" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/git_logo.svg.png" height="48" hspace="7px"/></a>	
+  <a href="#"><img title="Git" alt="Git" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/git_logo.svg.png" height="48" hspace="7px"/></a>
 </div>
 
 <br/>
