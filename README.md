@@ -51,7 +51,7 @@
 ### How to Reach me
 
 <div>
-  <a target="_blank" href="https://www.google.com">
+  <a target="_blank" href="https://bmigueldev.github.io/brunomiguel/">
     <img src="https://img.shields.io/badge/-My%20Website-bd1717?style=for-the-badge&logoColor=white" alt="My Portfolio Badge" hspace="10px" width="120px" height="30px"/>
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/miguel--bruno/">
