@@ -6,10 +6,10 @@
   </ul>
 </div>
 
-- 🎓 BS + MS in Informatics Engineering
-- 💻 Software Engineer, specializing in Front End Web Development, mostly interested in React
+- 🎓 BS + MS in Informatics and Computing Engineering
+- 💻 Software Engineer, specializing in Frontend Web Development, mostly interested in React
 - 🌱 Interested in learning more about Next.js and React Native
-<!--- - 👀 I’m looking for a position as a Front End Developer --->
+- 👀 I’m looking for a position as a Frontend Engineer
 <!--- - ✉️ You can reach me at  --->
 
 <!-- ### My Skills --->
