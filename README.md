@@ -9,7 +9,7 @@
 - 🎓 BS + MS in Informatics and Computing Engineering
 - 💻 Software Engineer, specializing in Frontend Web Development, mostly interested in React
 - 🌱 Interested in learning more about Next.js and React Native
-- 👀 I’m looking for a position as a Frontend Engineer
+- 👀 Looking for a position as a Frontend Engineer
 <!--- - ✉️ You can reach me at  --->
 
 <!-- ### My Skills --->
@@ -51,10 +51,13 @@
 ### How to Reach me
 
 <div>
-  <a target="_blank" href="https://bmigueldev.github.io/brunomiguel/">
-    <img src="https://img.shields.io/badge/-My%20Website-bd1717?style=for-the-badge&logoColor=white" alt="My Portfolio Badge" hspace="10px" width="120px" height="30px"/>
-  </a>
   <a target="_blank" href="https://www.linkedin.com/in/miguel--bruno/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" hspace="10px" width="120px" height="30px"/>
+  </a>
+  <a href="mailto:bmiguelpro@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-FAC3B0?style=for-the-badge&logo=gmail&logoColor=#EA4335" alt="Email" hspace="10px" width="100px" height="30px"/>
+  </a>
+   <a target="_blank" href="https://bmigueldev.github.io/brunomiguel/">
+    <img src="https://img.shields.io/badge/-My%20Website-bd1717?style=for-the-badge&logoColor=white" alt="My Portfolio Badge" hspace="10px" width="120px" height="30px"/>
   </a>
 </div>
