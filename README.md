@@ -8,9 +8,10 @@
 
 - 🎓 BS + MS in Informatics and Computing Engineering
 - 💻 Software Engineer, specializing in Frontend Web Development, mostly interested in React
-- 🌱 Interested in learning more about Next.js and React Native
-- 👀 Looking for a position as a Frontend Engineer
-<!--- - ✉️ You can reach me at  --->
+- 🌱 Interested in learning more about Next.js and DevOps
+- 💼 Currently working as a Full Stack Engineer
+<!-- - 👀 Looking for a position as a Frontend Engineer -->
+<!-- - ✉️ You can reach me at  -->
 
 <!-- ### My Skills --->
 <!--- Workaround to get h3 with good vertical spacing --->
