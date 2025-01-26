@@ -7,8 +7,8 @@
 </div>
 
 - 🎓 BS + MS in Informatics and Computing Engineering
-- 💻 Software Engineer, specializing in Frontend Web Development, mostly interested in React
-- 🌱 Interested in learning more about Next.js and DevOps
+- 💻 Software Engineer, specializing in Frontend Web Development, mostly interested in React and TypeScript
+- 🌱 Interested in learning more about DevOps, and currently taking a course on Next.js
 - 💼 Currently working as a Full Stack Engineer
 <!-- - 👀 Looking for a position as a Frontend Engineer -->
 <!-- - ✉️ You can reach me at  -->
