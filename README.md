@@ -6,11 +6,11 @@
   </ul>
 </div>
 
-- 🎓 B.S. + M.S. in Informatics and Computing Engineering.
-- 💻 Software Engineer and Full Stack Developer, specializing in Frontend Web Development.
-- 🎯 With over 2 years of professional experience, my skillset is mainly focused on React and TypeScript.
-- 💼 Currently working as a Full Stack Engineer.
-- 🌱 Currently taking a course on NextJS, and interested in learning more about DevOps.
+- 💻 Software Engineer and Frontend Developer, with a background in Full Stack Development.
+- 💼 Currently working as an Intermediate Frontend Engineer.
+- 🎓 B.S. and M.S. in Informatics and Computing Engineering.
+- 🎯 With over 3 years of professional experience, my skillset is mainly focused on React and TypeScript.
+- 🌱 Currently interested in learning more about Cloud and DevOps.
 
 <!-- ### My Skills --->
 <!--- Workaround to get h3 with good vertical spacing --->
