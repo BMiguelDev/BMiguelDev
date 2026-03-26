@@ -31,8 +31,10 @@
   <a href="#"><img title="ExpressJS" alt="ExpressJS" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/expressjs_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Python" alt="Python" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/Python_logo.webp" height="48" hspace="7px"/></a>
   <a href="#"><img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/Flask_logo.png" height="48" hspace="7px"/></a>
-  <a href="#"><img title="SQL" alt="SQL" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/sql_logo.png" height="48" hspace="7px"/></a>
+  <a href="#"><img title="Ruby" alt="Ruby" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/Ruby_logo.svg.png" height="48" hspace="7px"/></a>
    <div height="12"><br/></div>
+  <a href="#"><img title="Ruby on Rails" alt="Ruby on Rails" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/rubyOnRails_logo.svg.png" height="48" hspace="7px"/></a>
+  <a href="#"><img title="SQL" alt="SQL" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/sql_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/MongoDB_logo.webp" height="48" hspace="7px"/></a>
   <a href="#"><img title="Git" alt="Git" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/git_logo.svg.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/html_logo.png" height="48" hspace="7px"/></a>
@@ -41,9 +43,9 @@
   <a href="#"><img title="Styled Components" alt="Styled Components" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/styled_components_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="JSON Web Tokens" alt="JWT" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/JWT_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="React Testing Library" alt="React Testing Library" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/react_testing_library_logo.png" height="48" hspace="7px"/></a>
+  <div height="12"><br/></div>
   <a href="#"><img title="Jest" alt="Jest" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/jest_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Cypress" alt="Cypress" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/cypress_logo1.png" height="48" hspace="7px"/></a>
-  <div height="12"><br/></div>
   <a href="#"><img title="Storybook" alt="Storybook" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/storybook_logo.png" height="48" hspace="7px"/></a>
   <a href="#"><img title="Webpack" alt="Webpack" src="https://raw.githubusercontent.com/BMiguelDev/BMiguelDev/master/assets/images/webpack_logo.png" height="48" hspace="7px"/></a>
 </div>
@@ -59,7 +61,7 @@
   <a href="mailto:bmiguelpro@outlook.com">
     <img src="https://img.shields.io/badge/-Email-FAC3B0?style=for-the-badge&logo=gmail&logoColor=#EA4335" alt="Email" hspace="10px" width="100px" height="30px"/>
   </a>
-   <a target="_blank" href="https://bmigueldev.github.io/brunomiguel/">
+  <a target="_blank" href="https://bmigueldev.github.io/brunomiguel/">
     <img src="https://img.shields.io/badge/-My%20Website-bd1717?style=for-the-badge&logoColor=white" alt="My Portfolio Badge" hspace="10px" width="120px" height="30px"/>
   </a>
 </div>
